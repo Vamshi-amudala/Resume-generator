@@ -3,11 +3,10 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 const teamMembers = [
-    { name: "Harsh Baraliya", github: "https://github.com/MrCracker-OP" },
-    { name: "Khizar Shah", github: "https://github.com/Khizarshah01" },
-    { name: "Om Ingle", github: "https://github.com/omingle-og" },
-    { name: "Shashwat Agrawal", github: "https://github.com/ShashwatAgrawal20" },
-    { name: "Yash Vyavahare", github: "https://github.com/y4sssh " },
+    { name: "vamshi-amudala", github: "https://github.com/Vamshi-amudala" },
+    { name: "MarkalaRohan-tech", github: "https://github.com/MarkalaRohan-tech" },
+    { name: "Saibaba2592", github: "https://github.com/Saibaba2592" },
+    { name: "coderDhanunjayareddy", github: "https://github.com/coderDhanunjayareddy" },
     
 ];
 
@@ -106,7 +105,7 @@ const Footer = () => {
                         <a
                             className="btn btn-primary btn-floating m-1 border-0 rounded-circle"
                             style={{ backgroundColor: "#333333", padding: "0.5rem 0.85rem" }}
-                            href="https://github.com/y4sssh /Resume-Generator"
+                            href="https://github.com/Vamshi-amudala/Resume-Generator"
                             role="button"
                         ><i className="fa fa-github"></i></a>
 

@@ -36,29 +36,24 @@ const About = () => {
   const coreDevelopers = useMemo(
     () => [
       {
-        login: "MrCracker-OP",
-        html_url: "https://github.com/MrCracker-OP",
-        image: "https://avatars.githubusercontent.com/u/77793128?v=4",
+        login: "Vamshi-amudala",
+        html_url: "https://github.com/Vamshi-amudala",
+        image: "https://avatars.githubusercontent.com/u/183397435?v=4",
       },
       {
-        login: "Khizarshah01",
-        html_url: "https://github.com/khizarshah01",
+        login: "MarkalaRohan-tech",
+        html_url: "https://github.com/MarkalaRohan-tech",
         image: "https://avatars.githubusercontent.com/u/109973520?v=4",
       },
       {
-        login: "omingle-og",
-        html_url: "https://github.com/omingle-og",
+        login: "Saibaba2592",
+        html_url: "https://github.com/Saibaba2592",
         image: "https://avatars.githubusercontent.com/u/161492096?v=4",
       },
       {
-        login: "ShashwatAgrawal20",
-        html_url: "https://github.com/shashwatagrawal20",
-        image: "https://avatars.githubusercontent.com/u/72117025?v=4",
-      },
-      {
-        login: "y4sssh ",
-        html_url: "https://github.com/y4sssh ",
-        image: "https://avatars.githubusercontent.com/u/104668751?v=4",
+        login: "coderDhanunjayareddy",
+        html_url: "https://github.com/coderDhanunjayareddy ",
+        image: "https://avatars.githubusercontent.com/u/168948918?v=4",
       },
       
     ],

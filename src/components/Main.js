@@ -322,7 +322,7 @@ const Main = () => {
         <Button1 onClick={handleClick}>Create Resume Now</Button1>
         <ImageSection1>
           <Img
-            src="https://resume-example.com/wp-content/uploads/2021/03/resumes-templates.png"
+            src="https://cdn.prod.website-files.com/652e8c998f656fbf00cb7c99/6899c0e9d0ae887680485925_essential-skills-for-a-successful-career-in-user-experience-design.webp"
             alt="Resume2"
           />
         </ImageSection1>

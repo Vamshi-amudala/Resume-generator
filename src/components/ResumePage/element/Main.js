@@ -32,7 +32,7 @@ import styled from "styled-components";
 import Modal from "react-bootstrap/Modal";
 
 const Main = () => {
-  const { printElem, template } = useResume(); // Add template state variable
+  const { printElem, template } = useResume();
 
   const handlePrint = useReactToPrint({
     content: () => printElem.current,
@@ -54,7 +54,7 @@ const Main = () => {
     setShare((prevShow) => !prevShow);
   };
 
-  // Conditionally render the selected template
+ 
   const selectedTemplate =
     template === "template2" ? <Template2 /> : <Template1 />;
 
